@@ -1,0 +1,20 @@
+# Environnement virtuel Python
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Modèles entraînés
+*.pth
+*.pt
+*.safetensors
+*.ckpt
+
+# Logs
+*.log

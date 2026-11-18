@@ -1,0 +1,2 @@
+modele,variante_dataset,accuracy,precision_macro,recall_macro,f1_macro,test_loss
+google/bert_uncased_L-2_H-128_A-2,output_0,0.7980952380952381,0.8404073039866751,0.7980952380952381,0.7705558638907669,1.7227154846786545

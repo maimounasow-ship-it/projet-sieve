@@ -1,0 +1,2 @@
+modele,variante_dataset,accuracy,precision_macro,recall_macro,f1_macro,test_loss
+distilbert/distilgpt2,output_0,0.9685714285714285,0.971902406845412,0.9685714285714285,0.9683349956225005,0.06518837064504623
